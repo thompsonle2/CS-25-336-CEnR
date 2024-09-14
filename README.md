@@ -1,10 +1,8 @@
 # *Automating Community-Engaged Research and Evaluation (CeRN): A computational framework for data collection, processing, and visualization*
 ## *VCU Wright Center for Clinical Trials*
 ## *Short Project Description*
-The directory structure in this GitHub is to allow the project to have all its resources self-contained.
-Open Source software should not just be a repository of code.  There are a number of directories to help you and others that will 
-follow in your foot steps.  It'll also allow the Linux Foundation OMP Mentorship program to keep track of your project and get
-a better understanding of the problems you encountered during the developmemnt of this project.
+Community engaged research (CEnR) is an inclusive and equitable approach that partners researchers with communities throughout the entire research process. Our project is based on designing and implementing a framework for the existing natural language processes in order to make using said processes easier. 
+
 
 | Folder | Description |
 |---|---|
